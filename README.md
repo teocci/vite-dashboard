@@ -1,7 +1,6 @@
 ## [vite-dashboard][2]
 
-`vite-dashboard` is a basic gin-gonic webserver for the KOGAS project.
-
+`vite-dashboard` is a basic webserver, build using [Vite][1] as build tooling.
 ## Disclaimer
 > This tool is limited to security research only, and the user assumes all legal and related responsibilities arising from its use! The author assumes no legal responsibility!
 
@@ -39,7 +38,6 @@ npm run dev
 open http://127.0.0.1:5174/
 ```
 
-
-
+[1]: https://github.com/vitejs/vite
 [2]: https://pkg.go.dev/github.com/teocci/vite-dashboard
 [3]: https://github.com/teocci/vite-dashboard/releases/tag/v1.0.0
